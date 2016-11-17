@@ -1,0 +1,4 @@
+Registration
+You should proceed:
+{{ site }}accountsactivate{{ activation_key }}/
+Thak you!
